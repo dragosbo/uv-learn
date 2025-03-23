@@ -24,6 +24,10 @@ attention requests is not in the dependencies
 
 uv run --with requests api_request.py
 
+# running a script with inline metadata
+https://packaging.python.org/en/latest/specifications/inline-script-metadata/
+
+
 uv run demo.py
 
 # Ultra-Efficient Python Environment Flow ⚡
