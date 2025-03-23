@@ -8,12 +8,16 @@ Installation https://docs.astral.sh/uv/guides/install-python/
 
 # nice features
 uvx streamlit hello
-
 uvx streamlit run app.py
 
 # extra work
 to create a file just type notepad file.extension
 
+# try a fastapi
+
+inside the example folder
+
+uv run uvicorn my_api:app --port 8000 --reload
 
 # Ultra-Efficient Python Environment Flow ⚡
 
