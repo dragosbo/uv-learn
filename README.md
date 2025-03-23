@@ -19,6 +19,11 @@ inside the example folder
 
 uv run uvicorn my_api:app --port 8000 --reload
 
+# running a script
+attention requests is not in the dependencies
+
+uv run --with requests api_request.py
+
 # Ultra-Efficient Python Environment Flow ⚡
 
 ## Features
@@ -36,7 +41,7 @@ irm https://bit.ly/envflow-setup | iex
 Youtube - videos
 
 uv - Python package and project management | Inline Script Metadata  ►
-https://www.youtube.com/watch?v=igWlYl3asKw&t=937s
+https://www.youtube.com/watch?v=igWlYl3asKw&t=937s&ab_channel=BugBytes
 
 UV one year on: the FUTURE of Python is NOW ► 
 https://www.youtube.com/watch?v=zg9-C61MnwA
