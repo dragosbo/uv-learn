@@ -17,11 +17,13 @@ echo doskey uvs=uv run -- streamlit run .\example\app.py
 
 ) > aliases.bat
 
+REM generate Streamlit app.py
 (
 echo import streamlit as st
 echo st.write^("hello world from Streamlit"^)
 ) > app.py
 
+REM generate FastAPI my_api.py
 (
 echo from fastapi import FastAPI
 
