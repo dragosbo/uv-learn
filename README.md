@@ -1,5 +1,6 @@
 # uv-learn
 UV website ► https://docs.astral.sh/uv/
+
 Installation https://docs.astral.sh/uv/guides/install-python/
 
 # getting started
@@ -7,6 +8,7 @@ Installation https://docs.astral.sh/uv/guides/install-python/
 
 # nice features
 uvx streamlit hello
+
 uvx streamlit run app.py
 
 
@@ -26,4 +28,6 @@ irm https://bit.ly/envflow-setup | iex
 
 Youtube - videos
 
-https://www.youtube.com/watch?v=zg9-C61MnwA&list=PLsWyhklHwjExCAQ3Qmmyqvo7wtsU_aKzn&index=4&ab_channel=Carberra
+UV one year on: the FUTURE of Python is NOW ► 
+https://www.youtube.com/watch?v=zg9-C61MnwA
+
