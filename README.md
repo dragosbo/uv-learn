@@ -35,6 +35,9 @@ irm https://bit.ly/envflow-setup | iex
 
 Youtube - videos
 
+uv - Python package and project management | Inline Script Metadata  ►
+https://www.youtube.com/watch?v=igWlYl3asKw&t=937s
+
 UV one year on: the FUTURE of Python is NOW ► 
 https://www.youtube.com/watch?v=zg9-C61MnwA
 

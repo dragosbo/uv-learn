@@ -2,6 +2,7 @@
 uv init --python 3.12 example
 cd ./example
 uv add ruff jupyter streamlit uvicorn fastapi
+uv add --dev ruff
 uv run ruff check
 uv lock
 uv sync
