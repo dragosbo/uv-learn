@@ -27,8 +27,12 @@ uv run --with requests api_request.py
 # running a script with inline metadata
 https://packaging.python.org/en/latest/specifications/inline-script-metadata/
 
-
 uv run demo.py
+
+# create automatically inline metadata
+uv add --script demo2.py requests  
+
+uv run demo2.py
 
 # Ultra-Efficient Python Environment Flow ⚡
 
