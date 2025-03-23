@@ -24,6 +24,8 @@ attention requests is not in the dependencies
 
 uv run --with requests api_request.py
 
+uv run demo.py
+
 # Ultra-Efficient Python Environment Flow ⚡
 
 ## Features
