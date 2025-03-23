@@ -11,6 +11,9 @@ uvx streamlit hello
 
 uvx streamlit run app.py
 
+# extra work
+to create a file just type notepad file.extension
+
 
 # Ultra-Efficient Python Environment Flow ⚡
 
